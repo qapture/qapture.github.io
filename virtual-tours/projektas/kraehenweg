@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Kraehenweg | qapture</title>
+<style>
+   html {
+      height: 100%;
+      width: 100%;
+   }
+   body {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+   }
+   iframe {
+      margin: 0;
+      padding: 0;
+      border: 0;
+   }
+</style>
+   </head>
+   <body>
+         <iframe width="100%" height="100%" src="https://qapture-gmbh-2.captur3d.io/view/projektas/projektas-krahenweg" ></iframe>
+   </body>
+</html>
